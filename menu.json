@@ -1,5 +1,6 @@
 [
   { "name": "测试软件", "link": "https://waterchisato.github.io/mrhj/tests.apk" },
   { "name": "官方系统测试（安卓13）", "link": "https://waterchisato.github.io/DowApp/apk/CPTA.apk" },
-  { "name": "原神字体", "link": "https://WaterChisato.github.io/mrhj/fonts/MyFont.ttf" }
+  { "name": "原神字体", "link": "https://WaterChisato.github.io/mrhj/fonts/MyFont.ttf" },
+  { "name": "文件极客", "link": "https://waterchisato.github.io/DowApp/apk/文件极客.apks"}
 ]
