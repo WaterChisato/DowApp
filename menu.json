@@ -3,5 +3,6 @@
   { "name": "官方系统测试（安卓13）", "link": "https://waterchisato.github.io/DowApp/apk/CPTA.apk" },
   { "name": "原神字体", "link": "https://WaterChisato.github.io/mrhj/fonts/MyFont.ttf" },
   { "name": "文件极客 （改bug试试）", "link": "https://waterchisato.github.io/DowApp/AppKey/wjjk.html"},
-  { "name": "网易云", "link": "https://waterchisato.github.io/DowApp/AppKey/wyy.html" }
+  { "name": "网易云", "link": "https://waterchisato.github.io/DowApp/AppKey/wyy.html" },
+  { "name": "博客" , "link": "https://waterchisato.github.io/DowApp/AppKey/bk.html" }
 ]
